@@ -6,3 +6,5 @@
 ###### Sixth Heading
 
 Bullet points being added to the file
+#### Looking beautiful 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
